@@ -1,0 +1,2 @@
+# sampleRepoFAti
+creating new repo
